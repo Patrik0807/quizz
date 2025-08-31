@@ -1,8 +1,11 @@
 import React from 'react'
+import Quiz from './components/Quiz/Quiz'
 
 const App = () => {
   return (
-    <div>hello world</div>
+    <div>hello world
+      <Quiz/>
+    </div>
   )
 }
 
