@@ -3,7 +3,9 @@ import './Quiz.css'
 
 const Quiz = () => {
   return (
-    <div>Quiz</div>
+    <div className='container'>
+        <h1>QUIZZ APP</h1>
+    </div>
   )
 }
 
