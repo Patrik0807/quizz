@@ -3,10 +3,10 @@ import Quiz from './components/Quiz/Quiz'
 
 const App = () => {
   return (
-    <div>hello world
+    <div>
       <Quiz/>
     </div>
   )
 }
 
-export default App
+export default App;
